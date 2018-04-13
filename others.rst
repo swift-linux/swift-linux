@@ -27,7 +27,7 @@ available:
   result  is issues regarding libcurl.so.3 being missing. *In most cases*, you can just
   run ``sed -i 's/libcurl.so.3/libcurl.so.4'`` on all the binaries in the Swift
   distribution. (You may still encounter version information warnings, described below
-  in `ref`:Version Information:.)
+  in `ref`:Version Warnings:.)
 
 - A similar issue exists with Swift requiring libedit.so.2, which in most other distros
   is (properly) named libedit.so.0. Again, a ``sed`` call should do the trick.
@@ -36,8 +36,8 @@ available:
   usually will carry a package provided ncurses5 binaries; for instance, Fedora carries
   ``ncurses-compat-libs``, and Arch has ``ncurses5-compat-libs``.
 
-Version Information
--------------------
+Version Warnings
+----------------
 
 After making any necessary changes as detailed above, you may also encounter these
 dreaded warnings::

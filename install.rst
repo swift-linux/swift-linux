@@ -9,7 +9,8 @@ Flatpak
 *******
 
 The easiest way to get started using Swift is via the
-`Flatpak repo <https://flatpak.org/>`_.
+`Flatpak repo <https://flatpak.org/>`_. Make sure you've followed the
+`official Flatpak setup instructions <https://flatpak.org/setup/>`_.
 
 First, make sure you have the Freedesktop SDK installed::
 

@@ -28,6 +28,7 @@ free to `submit an issue <https://github.com/swift-linux/swift-linux>`_.
 
    install
    ecosystem
+   distribute
    others
 
 
