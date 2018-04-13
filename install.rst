@@ -18,7 +18,9 @@ First, make sure you have the Freedesktop SDK installed::
 
 Add the Flatpak remote::
 
-  $ flatpak --user remote-add swift https://swift-flatpak.refi64.cmo/swift.flatpakrepo
+  $ flatpak --user remote-add swift https://swift-flatpak.refi64.com/swift.flatpakrepo
+  # Or, if you prefer to add it manually:
+  curl -sSL https://gpg.refi64.com/swift-flatpak | flatpak --user remote-add --gpg-import=- swift http://swift-flatpak.refi64.com
 
 Then, install the SDK extension and live SDK::
 
