@@ -36,9 +36,7 @@ To shorten this, define an alias::
 
 Now, you can just use *swiftpak*::
 
-  $ swiftpak run myapp
-
-(Note that the REPL doesn't work yet...)
+  $ swiftpak
 
 Ubuntu
 ******
