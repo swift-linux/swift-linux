@@ -59,7 +59,7 @@ or::
 Fedora
 ******
 
-An RPM is available `here <https://github.com/corinnekrych/swift-rpm>`, though it
+An RPM is available `here <https://github.com/corinnekrych/swift-rpm>`_, though it
 requires a build from source. The Ubuntu binaries should more-or-less work if you patch
 them as mentioned in :ref:`Using the Ubuntu Binaries`.
 
