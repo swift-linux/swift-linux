@@ -14,7 +14,7 @@ What's wrong?
 
 A lot! Apple only provides Swift binaries that run well on Ubuntu, and users of other
 distros will have a fun time trying to get them to work. It's hard to share Swift
-applications you've, and the majority of the ecosystem, being Mac-and-iOS-focused,
+applications you've built, and the majority of the ecosystem, being Mac-and-iOS-focused,
 tends to create libraries that don't work under Linux. This guide is trying to be
 a central point for people trying to get a great Swift experience on their Linux
 systems.
