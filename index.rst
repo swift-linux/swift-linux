@@ -22,6 +22,9 @@ systems.
 If you have anything you'd like to add, or if you notice a problem in this guide, feel
 free to `submit an issue <https://github.com/swift-linux/swift-linux>`_.
 
+Also, if you need help, try stopping by the `unofficial Swift Discord
+<http://discord.gg/kFRp2Q3>`_.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
